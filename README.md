@@ -9,12 +9,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning cybersecurity, microcontroller, c++, python
 - 💬 Ask me about Deutsch and cyber
 - 😄 She/her/amoeba-tipes/undergraduate student
-- ⚡ Fun fact: ice cream loooovers
+- ⚡ Ice cream looovers
 -->
 
 **Languages and Tools:** 
 
-![Rama's Github Stats](https://github-readme-stats.vercel.app/api?username=alrazzh91&count_private=true&show_icons=true&include_all_commits=true)
+![Zeezaah's Github Stats](https://github-readme-stats.vercel.app/api?username=alrazzh91&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alrazzh91&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=alrazzh91.alrazzh91)
